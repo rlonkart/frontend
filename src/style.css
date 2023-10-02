@@ -1,0 +1,354 @@
+
+.landing {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.landing .div {
+    background-color: #ffffff;
+    height: 1720px;
+    position: relative;
+    width: 1680px;
+}
+
+.landing .navigation-c {
+    background-color: #dbdbdb;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1680px;
+}
+
+.landing .logo-wordmark-instance {
+    left: 47px !important;
+    top: 5px !important;
+}
+
+.landing .sign-up-button {
+    background-color: unset !important;
+    background-image: url(./rectangle-2.svg) !important;
+    background-size: 100% 100% !important;
+    border-radius: unset !important;
+    left: 1470px !important;
+    position: absolute !important;
+    top: 10px !important;
+}
+
+.landing .button-instance {
+    color: #dbdbdb !important;
+    left: 36px !important;
+}
+
+.landing .log-in-button {
+    background-color: unset !important;
+    background-image: url(./rectangle-1.svg) !important;
+    background-size: 100% 100% !important;
+    border: unset !important;
+    border-color: unset !important;
+    border-radius: unset !important;
+    left: 1328px !important;
+    position: absolute !important;
+    top: 10px !important;
+}
+
+.landing .design-component-instance-node {
+    left: 42px !important;
+    top: 10px !important;
+}
+
+.landing .hero-e {
+    background-color: #ffffff;
+    height: 712px;
+    left: 0;
+    position: absolute;
+    top: 60px;
+    width: 1680px;
+}
+
+.landing .overlap-group {
+    background-image: url(./rectangle.svg);
+    background-size: 100% 100%;
+    height: 712px;
+    position: relative;
+}
+
+.landing .the-largest-community-of-photo-enthusiasts {
+    height: 80px !important;
+    left: 144px !important;
+    position: absolute !important;
+    top: 591px !important;
+    width: 1392px !important;
+}
+
+.landing .the-largest-instance {
+    color: #1e1e1e !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    width: 1392px !important;
+}
+
+.landing .p {
+    color: #224e86;
+    font-family: var(--hero-h1-font-family);
+    font-size: var(--hero-h1-font-size);
+    font-style: var(--hero-h1-font-style);
+    font-weight: var(--hero-h1-font-weight);
+    left: 321px;
+    letter-spacing: var(--hero-h1-letter-spacing);
+    line-height: var(--hero-h1-line-height);
+    position: absolute;
+    text-align: center;
+    top: 315px;
+    white-space: nowrap;
+}
+
+.landing .body-b {
+    background-color: #1e1e1e;
+    height: 948px;
+    left: 0;
+    position: absolute;
+    top: 772px;
+    width: 1680px;
+}
+
+.landing .text-wrapper-2 {
+    color: #dcdcdccc;
+    font-family: var(--sub-page-h1-font-family);
+    font-size: var(--sub-page-h1-font-size);
+    font-style: var(--sub-page-h1-font-style);
+    font-weight: var(--sub-page-h1-font-weight);
+    left: 80px;
+    letter-spacing: var(--sub-page-h1-letter-spacing);
+    line-height: var(--sub-page-h1-line-height);
+    position: absolute;
+    top: 119px;
+    width: 750px;
+}
+
+.landing .text-wrapper-3 {
+    color: #224e86;
+    font-family: var(--body-h4-font-family);
+    font-size: var(--body-h4-font-size);
+    font-style: var(--body-h4-font-style);
+    font-weight: var(--body-h4-font-weight);
+    left: 80px;
+    letter-spacing: var(--body-h4-letter-spacing);
+    line-height: var(--body-h4-line-height);
+    position: absolute;
+    top: 323px;
+    white-space: nowrap;
+    width: 686px;
+}
+
+.landing .text-wrapper-4 {
+    color: #b0b0b0cc;
+    font-family: var(--body-p-font-family);
+    font-size: var(--body-p-font-size);
+    font-style: var(--body-p-font-style);
+    font-weight: var(--body-p-font-weight);
+    left: 80px;
+    letter-spacing: var(--body-p-letter-spacing);
+    line-height: var(--body-p-line-height);
+    position: absolute;
+    top: 383px;
+    width: 686px;
+}
+
+.landing .text-wrapper-5 {
+    color: #224e86;
+    font-family: var(--body-h4-font-family);
+    font-size: var(--body-h4-font-size);
+    font-style: var(--body-h4-font-style);
+    font-weight: var(--body-h4-font-weight);
+    left: 914px;
+    letter-spacing: var(--body-h4-letter-spacing);
+    line-height: var(--body-h4-line-height);
+    position: absolute;
+    top: 323px;
+    white-space: nowrap;
+    width: 686px;
+}
+
+.landing .text-wrapper-6 {
+    color: #b0b0b0cc;
+    font-family: var(--body-p-font-family);
+    font-size: var(--body-p-font-size);
+    font-style: var(--body-p-font-style);
+    font-weight: var(--body-p-font-weight);
+    left: 914px;
+    letter-spacing: var(--body-p-letter-spacing);
+    line-height: var(--body-p-line-height);
+    position: absolute;
+    top: 383px;
+    width: 686px;
+}
+
+.landing .text-wrapper-7 {
+    color: #224e86;
+    font-family: var(--body-h4-font-family);
+    font-size: var(--body-h4-font-size);
+    font-style: var(--body-h4-font-style);
+    font-weight: var(--body-h4-font-weight);
+    left: 80px;
+    letter-spacing: var(--body-h4-letter-spacing);
+    line-height: var(--body-h4-line-height);
+    position: absolute;
+    top: 605px;
+    white-space: nowrap;
+    width: 686px;
+}
+
+.landing .text-wrapper-8 {
+    color: #b0b0b0cc;
+    font-family: var(--body-p-font-family);
+    font-size: var(--body-p-font-size);
+    font-style: var(--body-p-font-style);
+    font-weight: var(--body-p-font-weight);
+    left: 80px;
+    letter-spacing: var(--body-p-letter-spacing);
+    line-height: var(--body-p-line-height);
+    position: absolute;
+    top: 665px;
+    width: 686px;
+}
+
+.landing .text-wrapper-9 {
+    color: #224e86;
+    font-family: var(--body-h4-font-family);
+    font-size: var(--body-h4-font-size);
+    font-style: var(--body-h4-font-style);
+    font-weight: var(--body-h4-font-weight);
+    left: 914px;
+    letter-spacing: var(--body-h4-letter-spacing);
+    line-height: var(--body-h4-line-height);
+    position: absolute;
+    top: 605px;
+    white-space: nowrap;
+    width: 686px;
+}
+
+.landing .text-wrapper-10 {
+    color: #b0b0b0cc;
+    font-family: var(--body-p-font-family);
+    font-size: var(--body-p-font-size);
+    font-style: var(--body-p-font-style);
+    font-weight: var(--body-p-font-weight);
+    left: 914px;
+    letter-spacing: var(--body-p-letter-spacing);
+    line-height: var(--body-p-line-height);
+    position: absolute;
+    top: 665px;
+    width: 686px;
+}
+
+.button {
+    all: unset;
+    background-color: var(--actionable-item);
+    border-radius: 6px;
+    box-sizing: border-box;
+    height: 40px;
+    position: relative;
+    width: 130px;
+}
+
+.button .register {
+    color: #ffffff;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    height: 18px;
+    left: 34px;
+    letter-spacing: -0.23px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    white-space: nowrap;
+}
+
+.logo-wordmark {
+    height: 50px;
+    position: relative;
+    width: 221px;
+}
+
+.logo-wordmark .wordmark {
+    color: #224e86;
+    font-family: "Outfit-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    height: 30px;
+    left: 50px;
+    letter-spacing: -0.36px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 9px;
+    width: 171px;
+}
+
+.logo-wordmark .ellipse {
+    height: 50px;
+    left: -20203px;
+    position: absolute;
+    top: -5px;
+    width: 50px;
+}
+
+.logo-wordmark .overlap-group {
+    background-image: url(./rectangle-11.svg);
+    background-size: 100% 100%;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50px;
+}
+
+.logo-wordmark .polygon {
+    height: 25px;
+    left: 0;
+    position: absolute;
+    top: 25px;
+    width: 50px;
+}
+
+.logo-wordmark .group {
+    height: 10px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 8px;
+}
+
+.logo-wordmark .img {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 20px;
+    width: 50px;
+}
+
+.the-largest {
+    height: 160px;
+    position: relative;
+    width: 686px;
+}
+
+.the-largest .text-wrapper {
+    color: #000000;
+    font-family: var(--hero-h1-font-family);
+    font-size: var(--hero-h1-font-size);
+    font-style: var(--hero-h1-font-style);
+    font-weight: var(--hero-h1-font-weight);
+    left: 0;
+    letter-spacing: var(--hero-h1-letter-spacing);
+    line-height: var(--hero-h1-line-height);
+    position: absolute;
+    top: -1px;
+    width: 686px;
+}
